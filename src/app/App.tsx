@@ -6,7 +6,6 @@ import {
   Users, CheckCircle, FlaskConical, Zap, ArrowUpRight,
   HardHat, ChevronRight, Star
 } from "lucide-react";
-
 const DISPLAY = "'Barlow Condensed', sans-serif";
 const MONO = "'JetBrains Mono', monospace";
 
